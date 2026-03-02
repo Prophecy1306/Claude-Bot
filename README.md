@@ -6,6 +6,8 @@
 
 A Claude Code skill that removes signs of AI-generated writing from text, making it sound more natural and human.
 
+<img width="1536" height="1024" alt="ChatGPT Image Mar 2, 2026, 04_14_33 PM" src="https://github.com/user-attachments/assets/f34e5a16-cc57-4a4a-86ec-0e2219c0bece" />
+
 ## Installation
 
 ### Recommended (clone directly into Claude Code skills directory)
