@@ -17,13 +17,13 @@ mkdir -p ~/.Claude-Bot/skills
 git clone https://github.com/Prophecy1306/Claude-Bot.git ~/.Claude-Bot/skills/humanizer
 ```
 
-### Manual install/update (only the skill file)
+### Manual install/update (only the SKILL file)
 
 If you already have this repo cloned (or you downloaded `SKILL.md`), copy the skill file into Claude Code’s skills directory:
 
 ```bash
 mkdir -p ~/.Claude-Bot/skills/humanizer
-cp skills.md ~/.Claude-Bot/skills/humanizer/
+cp SKILL.md ~/.Claude-Bot/skills/humanizer/
 ```
 
 ## Usage
