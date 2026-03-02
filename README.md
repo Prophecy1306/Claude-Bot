@@ -135,3 +135,21 @@ The skill also includes a final "obviously AI generated" audit pass and a second
 
 - [Wikipedia: Signs of AI writing](https://en.wikipedia.org/wiki/Wikipedia:Signs_of_AI_writing) - Primary source
 - [WikiProject AI Cleanup](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_AI_Cleanup) - Maintaining organization
+
+# Done✔️✔️
+
+<pre>
+
+Stay Connected
+
+👉 Join for more updates and future releases: https://linktr.ee/EarlyCTs
+
+Thanks for checking out this.
+
+</pre>
+
+<div align="center">
+
+#  *❤️‍🔥 Happy Prompting 👨🏻‍💻*
+
+</div>
