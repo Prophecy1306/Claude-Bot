@@ -13,8 +13,8 @@ A Claude Code skill that removes signs of AI-generated writing from text, making
 ### Recommended (clone directly into Claude Code skills directory)
 
 ```bash
-mkdir -p ~/.claude/skills
-git clone https://github.com/blader/humanizer.git ~/.claude/skills/humanizer
+mkdir -p ~/.Claude-Bot/skills
+git clone https://github.com/Prophecy1306/Claude-Bot.git ~/.Claude-Bot/skills/humanizer
 ```
 
 ### Manual install/update (only the skill file)
@@ -22,8 +22,8 @@ git clone https://github.com/blader/humanizer.git ~/.claude/skills/humanizer
 If you already have this repo cloned (or you downloaded `SKILL.md`), copy the skill file into Claude Code’s skills directory:
 
 ```bash
-mkdir -p ~/.claude/skills/humanizer
-cp SKILL.md ~/.claude/skills/humanizer/
+mkdir -p ~/.Claude-Bot/skills/humanizer
+cp skills.md ~/.Claude-Bot/skills/humanizer/
 ```
 
 ## Usage
