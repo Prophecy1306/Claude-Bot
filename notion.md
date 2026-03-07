@@ -1,6 +1,6 @@
 <div align="center">
 
-#  👨🏻‍💻 **Claude Ai Soul** 👨🏻‍💻 
+#  ✍️ **Claude Ai Soul** ✍️
 
 
 </div>
